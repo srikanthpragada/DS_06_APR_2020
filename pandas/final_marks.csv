@@ -1,0 +1,10 @@
+name,subject,marks
+Bill,Java,90.0
+Bill,Python,95.0
+Steve,Java,80.0
+Steve,C,90.0
+Roberts,HTML,98.0
+Roberts,Java,60.0
+Roberts,Python,70.0
+Steve,Python,
+Henry,,60.0
